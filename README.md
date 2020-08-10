@@ -1,6 +1,6 @@
 # webpack 4 Boilerplate
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![David](https://img.shields.io/david/dev/preeteshjain/webpack-boilerplate)
 
 A modern webpack 4 boilerplate with Babel, Sass, ESLint, Hot Module Replacement, and development/production optimization.
 
